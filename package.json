@@ -1,0 +1,32 @@
+{
+  "name": "squarunblownett-jps",
+  "version": "1.0.0",
+  "description": "This is a Node.js module for quantum computing utilities. It provides functions for generating random quantum states and calculating entanglement entropy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squarunblownett1971/squarunblownett-jps"
+  },
+  "dependencies": {
+	  "johnyoung1": "1.0.0",
+	  "johnyoung1-js": "1.0.0",
+	  "dorothymoore": "1.0.0",
+"marinahramtsova": "1.0.0",
+"filatovmark": "1.0.0",
+"loginovy-js": "1.0.0",
+"donaldrodriguez-os": "1.0.0",
+"tobogunbar": "1.0.0",
+"squarunblownett-jps": "1.0.0",
+    "mathjs": "^9.4.4",
+    "quantum": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squarunblownett1971/squarunblownett-jps/issues"
+  },
+  "homepage": "https://github.com/squarunblownett1971/squarunblownett-jps#readme"
+}
